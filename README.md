@@ -11,13 +11,13 @@ To ensure a seamless testing experience, our application supports two primary me
 1. Pull the Docker Image
 
 ```
-   docker pull olegsyrbu/90poe
+   docker pull olegsyrbu/reposearch
 ```
 
 2. Run the Container:
 
 ```
-   docker run -dp 127.0.0.1:3000:3000 olegsyrbu/90poe
+   docker run -dp 127.0.0.1:3000:3000 olegsyrbu/reposearch
 ```
 
 Access the application at http://127.0.0.1:3000.
