@@ -4,7 +4,7 @@ This React application displays a list of repositories in a table view, specific
 
 ## Testing the Application
 
-#### 1. Local Environment Setup
+#### Local Environment Setup
 
 1. In the root directory of your project, create a `.env` file.
 
@@ -15,8 +15,6 @@ This React application displays a list of repositories in a table view, specific
    ```
    REACT_APP_GITHUB_TOKEN=<Your_Github_Token>
    ```
-
-#####
 
 #### Installation and Running the Application
 
