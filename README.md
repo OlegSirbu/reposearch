@@ -4,25 +4,7 @@ This React application displays a list of repositories in a table view, specific
 
 ## Testing the Application
 
-To ensure a seamless testing experience, our application supports two primary methods: Docker-based testing and local environment setup. Choose the method that best fits your testing environment and preferences.
-
-#### 1. Docker-Based Testing
-
-1. Pull the Docker Image
-
-```
-   docker pull olegsyrbu/reposearch
-```
-
-2. Run the Container:
-
-```
-   docker run -dp 127.0.0.1:3000:3000 olegsyrbu/reposearch
-```
-
-Access the application at http://127.0.0.1:3000.
-
-#### 2. Local Environment Setup
+#### 1. Local Environment Setup
 
 1. In the root directory of your project, create a `.env` file.
 
